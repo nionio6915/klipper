@@ -129,7 +129,7 @@ look like:
 screw1: 100,50
 screw1_fine_adjust: 0,0
 screw2: 100,150
-screw2_fine_adjust: 300,300
+screw2_fine_adjust: 0,300
 screw3: 150,100
 screw3_fine_adjust: 0,100
 ```
